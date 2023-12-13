@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basic_crud/static/css/main.5d8c3224.css",
+    "main.js": "/basic_crud/static/js/main.32b3c518.js",
+    "index.html": "/basic_crud/index.html",
+    "main.5d8c3224.css.map": "/basic_crud/static/css/main.5d8c3224.css.map",
+    "main.32b3c518.js.map": "/basic_crud/static/js/main.32b3c518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8c3224.css",
+    "static/js/main.32b3c518.js"
+  ]
+}
